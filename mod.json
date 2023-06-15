@@ -3,7 +3,7 @@
 	"author": "deltanedas",
 	"displayName": "[coral]Unit [gray]Factory",
 	"description": "Spawn any enemy in sandbox or on multiplayer, with [stat]/js[] (if supported).\n[stat]Requires [#00aaff]deltanedas/ui-lib[].",
-	"dependencies": ["ui-lib"],
+	"dependencies": ["ui_lib"],
 	"version": "3.5.0",
 	"hidden": true,
 	"minGameVersion": 136,
